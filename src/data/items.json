@@ -1,0 +1,290 @@
+[
+    {
+        "name": "Rustic Concrete Hat",
+        "price": "$8.75",
+        "image": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+        "category": "Clothing"
+    },
+    {
+        "name": "Generic Rubber Tuna",
+        "price": "$2.76",
+        "image": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+        "category": "Food"
+    },
+    {
+        "name": "Handmade Granite Bacon",
+        "price": "$6.69",
+        "image": "http://dummyimage.com/400x400.png/dddddd/000000",
+        "category": "Food"
+    },
+    {
+        "name": "Awesome Metal Bacon",
+        "price": "$6.85",
+        "image": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+        "category": "Food"
+    },
+    {
+        "name": "Awesome Concrete Chips",
+        "price": "$3.69",
+        "image": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+        "category": "Food"
+    },
+    {
+        "name": "Handcrafted Rubber Table",
+        "price": "$2.93",
+        "image": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+        "category": "Furniture"
+    },
+    {
+        "name": "Tasty Metal Chips",
+        "price": "$0.57",
+        "image": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+        "category": "Food"
+    },
+    {
+        "name": "Incredible Rubber Chicken",
+        "price": "$4.81",
+        "image": "http://dummyimage.com/400x400.png/dddddd/000000",
+        "category": "Food"
+    },
+    {
+        "name": "Incredible Steel Table",
+        "price": "$6.71",
+        "image": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+        "category": "Furniture"
+    },
+    {
+        "name": "Small Metal Shoes",
+        "price": "$5.44",
+        "image": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+        "category": "Clothing"
+    },
+    {
+        "name": "Awesome Plastic Table",
+        "price": "$9.22",
+        "image": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+        "category": "Furniture"
+    },
+    {
+        "name": "Ergonomic Cotton Shirt",
+        "price": "$6.67",
+        "image": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+        "category": "Clothing"
+    },
+    {
+        "name": "Ergonomic Concrete Mouse",
+        "price": "$8.10",
+        "image": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+        "category": "Food"
+    },
+    {
+        "name": "Licensed Cotton Cupboard",
+        "price": "$4.88",
+        "image": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+        "category": "Furniture"
+    },
+    {
+        "name": "Unbranded Plastic Shirt",
+        "price": "$5.32",
+        "image": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+        "category": "Clothing"
+    },
+    {
+        "name": "Licensed Soft Keyboard",
+        "price": "$7.00",
+        "image": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+        "category": "Electronics"
+    },
+    {
+        "name": "Fantastic Wooden Computer",
+        "price": "$3.02",
+        "image": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+        "category": "Electronics"
+    },
+    {
+        "name": "Sleek Metal Pizza",
+        "price": "$7.55",
+        "image": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+        "category": "Food"
+    },
+    {
+        "name": "Generic Rubber Mouse",
+        "price": "$7.35",
+        "image": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+        "category": "Electronics"
+    },
+    {
+        "name": "Unbranded Rubber Car",
+        "price": "$6.32",
+        "image": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+        "category": "Electronics"
+    },
+    {
+        "name": "Handcrafted Concrete Chair",
+        "price": "$7.39",
+        "image": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+        "category": "Furniture"
+    },
+    {
+        "name": "Small Metal Cheese",
+        "price": "$4.62",
+        "image": "http://dummyimage.com/400x400.png/dddddd/000000",
+        "category": "Food"
+    },
+    {
+        "name": "Generic Cotton Chicken",
+        "price": "$8.90",
+        "image": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+        "category": "Food"
+    },
+    {
+        "name": "Handmade Frozen Bacon",
+        "price": "$4.25",
+        "image": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+        "category": "Food"
+    },
+    {
+        "name": "Fantastic Metal Cheese",
+        "price": "$6.52",
+        "image": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+        "category": "Food"
+    },
+    {
+        "name": "Rustic Granite Chips",
+        "price": "$2.89",
+        "image": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+        "category": "Food"
+    },
+    {
+        "name": "Small Plastic Chicken",
+        "price": "$7.83",
+        "image": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+        "category": "Food"
+    },
+    {
+        "name": "Handcrafted Steel Computer",
+        "price": "$4.63",
+        "image": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+        "category": "Electronics"
+    },
+    {
+        "name": "Licensed Granite Soap",
+        "price": "$4.41",
+        "image": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+        "category": "Electronics"
+    },
+    {
+        "name": "Awesome Wooden Keyboard",
+        "price": "$8.41",
+        "image": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+        "category": "Electronics"
+    },
+    {
+        "name": "Gorgeous Metal Hat",
+        "price": "$1.81",
+        "image": "http://dummyimage.com/400x400.png/dddddd/000000",
+        "category": "Clothing"
+    },
+    {
+        "name": "Fantastic Plastic Car",
+        "price": "$3.19",
+        "image": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+        "category": "Electronics"
+    },
+    {
+        "name": "Small Metal Shoes",
+        "price": "$2.22",
+        "image": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+        "category": "Clothing"
+    },
+    {
+        "name": "Fantastic Fresh Pizza",
+        "price": "$7.61",
+        "image": "http://dummyimage.com/400x400.png/dddddd/000000",
+        "category": "Electronics"
+    },
+    {
+        "name": "Intelligent Frozen Chips",
+        "price": "$8.14",
+        "image": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+        "category": "Electronics"
+    },
+    {
+        "name": "Licensed Granite Shirt",
+        "price": "$5.67",
+        "image": "http://dummyimage.com/400x400.png/dddddd/000000",
+        "category": "Clothing"
+    },
+    {
+        "name": "Handmade Granite Towels",
+        "price": "$8.90",
+        "image": "http://dummyimage.com/400x400.png/dddddd/000000",
+        "category": "Clothing"
+    },
+    {
+        "name": "Intelligent Wooden Towels",
+        "price": "$4.88",
+        "image": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+        "category": "Clothing"
+    },
+    {
+        "name": "Awesome Rubber Keyboard",
+        "price": "$4.13",
+        "image": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+        "category": "Electronics"
+    },
+    {
+        "name": "Ergonomic Cotton Salad",
+        "price": "$5.20",
+        "image": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+        "category": "Electronics"
+    },
+    {
+        "name": "Tasty Frozen Chair",
+        "price": "$8.41",
+        "image": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+        "category": "Furniture"
+    },
+    {
+        "name": "Small Soft Table",
+        "price": "$6.39",
+        "image": "http://dummyimage.com/400x400.png/dddddd/000000",
+        "category": "Furniture"
+    },
+    {
+        "name": "Small Wooden Table",
+        "price": "$1.40",
+        "image": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+        "category": "Furniture"
+    },
+    {
+        "name": "Handcrafted Steel Table",
+        "price": "$2.66",
+        "image": "http://dummyimage.com/400x400.png/5fa2dd/ffffff",
+        "category": "Furniture"
+    },
+    {
+        "name": "Gorgeous Fresh Hat",
+        "price": "$2.28",
+        "image": "http://dummyimage.com/400x400.png/dddddd/000000",
+        "category": "Clothing"
+    },
+    {
+        "name": "Licensed Soft Tuna",
+        "price": "$8.03",
+        "image": "http://dummyimage.com/400x400.png/dddddd/000000",
+        "category": "Electronics"
+    },
+    {
+        "name": "Licensed Wooden Table",
+        "price": "$4.92",
+        "image": "http://dummyimage.com/400x400.png/ff4444/ffffff",
+        "category": "Furniture"
+    },
+    {
+        "name": "Licensed Fresh Tuna",
+        "price": "$3.29",
+        "image": "http://dummyimage.com/400x400.png/cc0000/ffffff",
+        "category": "Electronics"
+    }
+]
