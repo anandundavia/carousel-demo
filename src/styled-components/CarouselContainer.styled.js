@@ -12,4 +12,8 @@ export default styled.div`
 	white-space: nowrap; // This will make the CarouselItem to not wrap around the div
 
 	font-size: 16px;
+
+	& > div.items {
+		margin: 10vh 0; // Margin to take enough space for the center item - which is scaled to look bigger
+	}
 `;

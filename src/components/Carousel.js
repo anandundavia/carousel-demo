@@ -61,10 +61,21 @@ export default function Carousel(props) {
 		);
 	}
 
+	function renderCarouselDots() {
+		return (
+			<S.CarouselDots>
+				{items.map((_, index) => {
+					return <div className={`single-dot ${currentItemIndex === index ? "active" : ""}`}></div>;
+				})}
+			</S.CarouselDots>
+		);
+	}
+
 	return (
 		<S.CarouselContainer>
-			<div>{renderCarouselItems()}</div>
+			<div className="items">{renderCarouselItems()}</div>
 			<div>{renderCarouselControls()}</div>
+			<div>{renderCarouselDots()}</div>
 		</S.CarouselContainer>
 	);
 }

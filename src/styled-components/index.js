@@ -5,6 +5,7 @@ import CarouselContainer from "./CarouselContainer.styled";
 import CarouselItem from "./CarouselItem.styled";
 import CarouselControls from "./CarouselControls.styled";
 import SingleCarouselControl from "./SingleCarouselControl.styled";
+import CarouselDots from "./CarouselDots.styled";
 
 export {
 	Container,
@@ -13,5 +14,6 @@ export {
 	CarouselContainer,
 	CarouselItem,
 	CarouselControls,
-	SingleCarouselControl
+	SingleCarouselControl,
+	CarouselDots
 };
