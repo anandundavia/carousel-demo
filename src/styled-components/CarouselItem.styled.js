@@ -6,7 +6,7 @@ export default styled.div`
 
 	justify-content: center;
 	align-items: center;
-	font-size: 24px;
+	font-size: 1.2rem;
 
 	border-radius: 16px;
 
@@ -119,8 +119,8 @@ export default styled.div`
 
 	& > span {
 		display: inline-block;
-		border: 2px solid black;
-		padding: 20px 80px;
+		border: 1px solid black;
+		padding: 16px 48px;
 		border-radius: 4px;
 		background: rgba(255, 255, 255, 0.8);
 		color: black;
