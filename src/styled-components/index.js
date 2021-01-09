@@ -1,19 +1,8 @@
-import Container from "./Container.styled";
-import Select from "./Select.styled";
-import CategorySelection from "./CategorySelection.styled";
-import CarouselContainer from "./CarouselContainer.styled";
-import CarouselItem from "./CarouselItem.styled";
-import CarouselControls from "./CarouselControls.styled";
-import SingleCarouselControl from "./SingleCarouselControl.styled";
-import CarouselDots from "./CarouselDots.styled";
-
-export {
-	Container,
-	Select,
-	CategorySelection,
-	CarouselContainer,
-	CarouselItem,
-	CarouselControls,
-	SingleCarouselControl,
-	CarouselDots
-};
+export { default as Container } from "./Container.styled";
+export { default as Select } from "./Select.styled";
+export { default as CategorySelection } from "./CategorySelection.styled";
+export { default as CarouselContainer } from "./CarouselContainer.styled";
+export { default as CarouselItem } from "./CarouselItem.styled";
+export { default as CarouselControls } from "./CarouselControls.styled";
+export { default as SingleCarouselControl } from "./SingleCarouselControl.styled";
+export { default as CarouselDots } from "./CarouselDots.styled";
