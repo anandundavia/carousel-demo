@@ -126,7 +126,7 @@ export default function Carousel(props) {
 		return (
 			<S.CarouselDots>
 				{items.map((_, index) => {
-					return <div className={`single-dot ${currentItemIndex === index ? "active" : ""}`}></div>;
+					return <div key={index} className={`single-dot ${currentItemIndex === index ? "active" : ""}`}></div>;
 				})}
 			</S.CarouselDots>
 		);

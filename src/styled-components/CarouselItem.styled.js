@@ -14,6 +14,7 @@ export default styled.div`
 	background-image: url(${props => props.imageURL});
 	background-repeat: no-repeat;
 	background-size: 100%;
+	background-position: 50% 50%;
 
 	margin: 0 24px;
 
@@ -119,10 +120,9 @@ export default styled.div`
 	& > span {
 		display: inline-block;
 		border: 2px solid black;
-		padding: 40px 80px;
-		border-radius: 8px;
-		background: #121212;
-		opacity: 0.6;
-		transform: scaleY(0.76); // To negate the scale by parent 1 / 1.3 = 0.76
+		padding: 20px 80px;
+		border-radius: 4px;
+		background: rgba(255, 255, 255, 0.8);
+		color: black;
 	}
 `;
